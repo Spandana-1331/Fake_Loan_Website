@@ -2,7 +2,7 @@
 A Python-based project that identifies fake loan websites using machine learning. This project includes data analysis, model training, evaluation, and visualization.
 
 ## Features
-- Identify fake loan websites
+- Collect the dataset of fake loan websites
 - Data preprocessing
 - Machine learning model implementation
 - Visualization
